@@ -50,10 +50,15 @@ This project implements a binary classification model using artificial neural ne
 **Project Structure** :-
 
 ├── app.py                    # Streamlit web application
+
 ├── model.h5                  # Trained neural network model
+
 ├── requirements.txt          # Project dependencies
+
 ├── label_encoder.pickle      # Label encoder for categorical variables
+
 ├── onehot_encoder.pickle    # One-hot encoder for geography
+
 └── scaler.pickle            # Standard scaler for numerical features
 
 **Setup and Installation** :-
